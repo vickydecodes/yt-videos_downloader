@@ -91,6 +91,17 @@ This ensures playback works on:
 
 ---
 
+## 🖼 Screenshots
+
+### Main Interface
+![Main UI](screenshots/main-ui.png)
+
+### Download in Progress
+![Downloading](screenshots/downloading.png)
+
+### Download Completed
+![Completed](screenshots/completed.png)
+
 ## ⚠️ Limitations
 
 - Private videos are not supported
